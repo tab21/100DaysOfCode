@@ -12,7 +12,7 @@ def numFactoredBinaryTrees(arr) -> int:
 
 
 def main():
-    arr = list(input().split())
+    arr = input().split()
     arr = [int(x) for x in arr]
 
     print(numFactoredBinaryTrees(arr))
