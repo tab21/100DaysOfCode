@@ -2,7 +2,7 @@
 
 I participated in 100DaysOfCode program by CodeIn Community. Started from **1<sup>st</sup> July 2022** & below are my code for the same. I did it in 2 languages _C++_ and _Python_.
 
-Sometimes the compiler may have an error ( **compilation time exceeded** ) try the code on different compiler. If there is any other error in any code please do inform and I will try to correct that.
+Sometimes the compiler may have an error so try the code on different compiler. Also this compiler shows error ("  'type' object is not subscriptable" ) due to adding type of data in functions you can remove those and it should work fine I have let it be there so that I know what the input expects. If there is any error in any code on local machine which has all modules installed or leetcode please do inform and I will try to correct that as soon as possible.
 
 ## Table of problem solved
 
@@ -103,3 +103,4 @@ Sometimes the compiler may have an error ( **compilation time exceeded** ) try t
 | 93  |  91. Decode Ways | [Code of Day 93](https://ide.codingminutes.com/?id=zkil) |
 | 94  | 1155. Number of Dice Rolls With Target Sum | [Code of Day 94]( https://ide.codingminutes.com/?id=zkar) |
 | 95  | 1578. Minimum Time to Make Rope Colorful | [Code of Day 95](https://ide.codingminutes.com/?id=zkjd) |
+| 96  | 112. Path Sum | [Code of Day 96](https://ide.codingminutes.com/?id=ziki) |
