@@ -104,3 +104,4 @@ Sometimes the compiler may have an error so try the code on different compiler. 
 | 94  | 1155. Number of Dice Rolls With Target Sum | [Code of Day 94]( https://ide.codingminutes.com/?id=zkar) |
 | 95  | 1578. Minimum Time to Make Rope Colorful | [Code of Day 95](https://ide.codingminutes.com/?id=zkjd) |
 | 96  | 112. Path Sum | [Code of Day 96](https://ide.codingminutes.com/?id=ziki) |
+| 97  | 623. Add One Row to Tree | [Code of Day 97](https://ide.codingminutes.com/?id=zieu) |
