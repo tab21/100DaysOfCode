@@ -1,6 +1,6 @@
 # 100DaysOfCode
 
-I participated in 100DaysOfCode program by CodeIn Community. Started from **1<sup>st</sup> July 2022** & below are my code for the same. I did it in 2 languages _C++_ and _Python_.
+I participated in 100DaysOfCode program by CodeIn Community. Started from **1<sup>st</sup> July 2022** to **8<sup>th</sup> October 2022** & below are my code for the same. I did it in 2 languages _C++_ and _Python_.
 
 Sometimes the compiler may have an error so try the code on different compiler. Also this compiler shows error ("  'type' object is not subscriptable" ) due to adding type of data in functions you can remove those and it should work fine I have let it be there so that I know what the input expects. If there is any error in any code on local machine which has all modules installed or leetcode please do inform and I will try to correct that as soon as possible.
 
@@ -105,3 +105,6 @@ Sometimes the compiler may have an error so try the code on different compiler. 
 | 95  | 1578. Minimum Time to Make Rope Colorful | [Code of Day 95](https://ide.codingminutes.com/?id=zkjd) |
 | 96  | 112. Path Sum | [Code of Day 96](https://ide.codingminutes.com/?id=ziki) |
 | 97  | 623. Add One Row to Tree | [Code of Day 97](https://ide.codingminutes.com/?id=zieu) |
+| 98  | 981. Time Based Key-Value Store | [Code of Day 98](https://ide.codingminutes.com/?id=zxve) |
+| 99  | 732. My Calendar III | [Code of Day 99](https://ide.codingminutes.com/?id=zxxn) |
+| 100  | 16. 3Sum Closest | [Code of Day 100](https://ide.codingminutes.com/?id=zxcy) |
